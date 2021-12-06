@@ -1,8 +1,8 @@
 # proyecto-redso
 
-Arquitecto de producto / Ingeniero Fabian Suarez
+Arquitecto de producto : Ingeniero Fabian Suarez
 
-Analista de desarrollo / Tecnólogo Óscar González
+Analista de desarrollo : Tecnólogo Óscar González
 
 contacto para proyectos: (+57)3228858439 WhatsApp
 
