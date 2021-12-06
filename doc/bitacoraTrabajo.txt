@@ -1,0 +1,37 @@
+----------------------------------------------------------------------
+Bitácora de trabajo
+----------------------------------------------------------------------
+
+home
+    Definir una imagen corporativa con factor diferencial
+
+perfil
+    Descomponer el módulo para que sea mantenible
+
+mensajeria
+	Posee una barra de navegación vertical lateral, una sección
+	que muestra el contenido y un modal para envio de mensajes.
+	Para facilitar el mantenimiento de este modulo se crearon 
+	tres componentes.
+  	
+	- barraNavegacion
+	- contenido
+	- modales
+
+producto:
+    Descomponer el módulo para que sea mantenible
+
+analíticas:
+    Descomponer el módulo para que sea mantenible
+
+
+----------------------------------------------------------------------
+Créditos:
+----------------------------------------------------------------------
+    Trabajo basado en las plantillas de desarrollo web de la w3school
+    fuente: https://www.w3schools.com/w3css/w3css_templates.asp
+
+    Arquitecto de producto / Ingeniero Fabian Suarez
+	Analista de desarrollo / Tecnólogo Óscar González
+    contacto para proyectos: (+57)3228858439 WhatsApp
+----------------------------------------------------------------------
